@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - C program that prints the size of various types 
- *
+ * main -Entry point
  * description: C program that prints the size of various types on
  * Return: 0 (sucess)
  */
