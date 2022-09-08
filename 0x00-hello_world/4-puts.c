@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 /**
- * write a function
+ * main -entry point
  *
- * retun zero after writing function
+ * Return: Always 0 (success)
  */
-int main(void) { puts("Programming is like building a multilingual puzzle\n"); return (0); }
+int main(void)
+{puts("Programming is like building a multilingual puzzle\n");
+Return(0); }
