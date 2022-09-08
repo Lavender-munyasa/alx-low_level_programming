@@ -1,10 +1,8 @@
-#include <studio.h>
+#include <stdio.h>
 
 /**
- * main - entry point
+ * write a function
  *
- * Return : 0 after printing the function
+ * retun zero after writing function
  */
-int main(void)
-{puts("\"Programming is like building a multilingual puzzle");
-       	return (0); }
+int main(void) { puts("Programming is like building a multilingual puzzle\n"); return (0); }
