@@ -1,22 +1,23 @@
 #include "main.h"
 
 /**
- * main - prints putchar
+ * main - main program block
  *
- * Description - prints putchar and adds new line
+ * description: program that prints _putchar
  *
- * Return : Always 0(success)
+ * return: 0(success)
  */
 int main(void)
 {
-	_putchar('_');
-	_putchar('p');
+	_putchar('_')
+	_putchar('p')
 	_putchar('u')
 	_putchar('t')
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
+	_putchar('c')
+	_putchar('h')
+	_putchar('a')
+	_putchar('r')
 	_putchar('\n');
 	return (0);
 }
+
