@@ -1,12 +1,13 @@
 #include <stdio.h>
 #include <string.h>
+#include "main.h"
 
 /**
- * main- prints a string in reverse
+ * rev_string- prints a string in reverse
  * return:always 0
  * @s:parameter
  */
-void rev_string(char *s);
+void rev_string(char *s)
 {
 	char s[100];
 
