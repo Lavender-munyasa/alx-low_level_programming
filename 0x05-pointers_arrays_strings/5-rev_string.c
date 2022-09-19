@@ -4,7 +4,7 @@
 /**
  * main- prints a string in reverse
  * return:always 0
- * @a:parameter
+ * @s:parameter
  */
 void rev_string(char *s);
 {
