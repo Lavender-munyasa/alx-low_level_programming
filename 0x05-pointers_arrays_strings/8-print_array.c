@@ -2,11 +2,12 @@
 #include "main.h"
 
 /**
- * print_array - prints n element of array
+ * print_array - prints n elements of an array
  *
  * @a: array
  *
- * @n: number of elements * * Return: nothing
+ * @n: number of elements
+ * Return: nothing
  */
 void print_array(int *a, int n)
 {
